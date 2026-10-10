@@ -1,0 +1,16 @@
+{
+  "manifestVersion": 1,
+  "samples": [
+    {
+      "id": "tilky-showcase",
+      "name": "Tilky Showcase",
+      "version": "1.0.0",
+      "description": "Eleven short levels, each showing one feature: movement, doors, lifts, lighting, collectibles, flipbooks, sound, skybox, raycasts, room over room and 3D models. Every script is fully commented.",
+      "projectFolder": "Tilky Showcase",
+      "downloadUrl": "https://github.com/BenBerke/Tilky-Showcase/releases/download/v1.0.0/Tilky_Showcase-1.0.0.zip",
+      "size": 2884160,
+      "sha256": "2b10bc482f877bdf31d162d5c8547e392e494b97fc533c577f16f858191930ae",
+      "minEngineVersion": ""
+    }
+  ]
+}
