@@ -1,0 +1,45 @@
+SHOWCASE LEVELS - ART AND SOUND CREDITS
+=======================================
+
+Everything comes from public-domain (CC0) sources. No
+attribution is legally required, but credit is given here anyway.
+
+Textures (Shared/Textures) - ambientCG, CC0 1.0 (https://ambientcg.com)
+    stone.png           Bricks075A
+    concrete_wall.png   Concrete034
+    concrete_floor.png  Concrete046
+    tiles.png           Tiles107
+    wood_floor.png      WoodFloor043
+    planks.png          Planks037A
+    metal.png           Metal032
+    steel.png           CorrugatedSteel009
+    grass.png           Grass004
+    rock.png            Rock051
+    dirt.png            Ground037
+  (colour maps only, resized to 256 x 256)
+
+Sky (08 Open Sky/Sky/partly_cloudy.jpg) - Poly Haven, CC0 1.0 (https://polyhaven.com)
+    "Kloofendal 48d Partly Cloudy (Pure Sky)" by Greg Zaal and Jarod Guest,
+    tonemapped JPG resized to 2048 x 1024.
+
+Sprites and sounds - Kenney, CC0 1.0 (https://kenney.nl)
+    Platformer Art Deluxe   springboard, key, buttons, switches, coin, HUD icons
+    Shooting Gallery        target, target back, wooden stick, crosshair
+    Particle Pack           exit portal glow, flames (torch frames), beacon,
+                            machine glow, radio glow (tinted)
+    Impact Sounds, Interface Sounds, Sci-fi Sounds, RPG Audio, Digital Audio,
+    Music Jingles           every sound effect and the radio tune
+                            (converted from OGG to mono 16-bit WAV)
+
+3D models (11 3D Models/Models) - Kenney, CC0 1.0 (https://kenney.nl)
+    Furniture Kit   loungeSofa, tableCoffee, pottedPlant, lampSquareFloor,
+                    bookcaseOpen, televisionModern
+    Nature Kit      tree_default, tree_cone, rock_largeA, plant_bush,
+                    flower_redA, mushroom_red
+    Car Kit         race, police, taxi (+ Textures/colormap.png)
+    Food Kit        burger, cake-birthday, donut-sprinkles, apple, cupcake
+                    (+ Textures/colormap.png)
+
+Some pictures were made from the originals: the torch fire frames are tinted
+and layered Kenney flames, the spinning-coin frames are the Kenney coin
+squashed sideways, and the targets are the Kenney target placed on its stick.

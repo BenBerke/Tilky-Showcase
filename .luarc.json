@@ -1,0 +1,6 @@
+{
+  "workspace.library": [
+    "./.luals"
+  ],
+  "workspace.checkThirdParty": false
+}

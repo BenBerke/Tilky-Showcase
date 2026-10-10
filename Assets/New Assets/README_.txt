@@ -1,0 +1,75 @@
+-- ============================================================================
+--  TILKY SHOWCASE LEVELS - READ ME
+-- ============================================================================
+-- ----------------------------------------------------------------------------
+--  PLAYING THE SHOWCASE
+-- ----------------------------------------------------------------------------
+--
+--  1. Open the Asset Browser and go "Assets" "01 First Steps".
+--  2. Double-click "Showcase 01 - First Steps" to open the level.
+--  3. Click the Play button (Save & Play) in the toolbar at the top of the
+--     screen to run it.
+--
+--  Every level ends with a glowing blue exit. Walk into it to load the next
+--  level. The last level (11) leads back to the first.
+--  In the editor, pressing Stop always returns you to the level you started
+--  playing from.
+--
+--  Controls:
+--      WASD             move
+--      Mouse            look around
+--      Shift            run
+--      Space            jump
+--      E                use doors, switches, levers, the radio and the food stand
+--      F                speed up the beacon (level 06)
+--      R                change the radio's speed (level 07)
+--      1 / 2 / 3        day, sunset, night (level 08)
+--      Left mouse       shoot (level 09)
+--
+-- ----------------------------------------------------------------------------
+--  THE LEVELS
+-- ----------------------------------------------------------------------------
+--
+--  01 First Steps          walking, running, stairs, jumping, a springboard
+--  02 Doors and Keys       doors that slide open, a locked door and its key
+--  03 Moving Floors        a lift and a button that raises a step
+--  04 Lighting             flickering, switchable and colour-changing lights
+--  05 Collectibles         coins, a HUD counter and a gate that opens at the end
+--  06 Flipbook Animation   animated torches, coins, a beacon and a lever
+--  07 Sound                3D sound, a radio and sound pads
+--  08 Open Sky             a skybox and a time-of-day switch
+--  09 Target Practice      shooting with raycasts
+--  10 Room Over Room       one sector with two storeys stacked on top of each other
+--  11 3D Models            furniture, spinning cars, a model swapper, a garden
+--
+--  Each folder holds that level's file, its scripts (in "Scripts") and its
+--  art. "Shared" holds the textures and the scripts every level uses.
+--  Every script explains itself in the comments at its top: open one from a
+--  Custom Script component with "Open File", or double-click it in the
+--  Asset Browser.
+--  README.txt has a short list of the scripts; CREDITS.txt lists where the
+--  free (CC0) art and sounds came from.
+--
+-- ----------------------------------------------------------------------------
+--  EXPORTING A GAME
+-- ----------------------------------------------------------------------------
+--
+--  1. Save the open level (Project > Save, or the Save button).
+--  2. In the menu bar at the top, choose Project > Export Game.
+--  3. Wait for the "export" message. If something is wrong, for example a
+--     script with a mistake in it, the export stops and the log says why.
+--  4. The finished game is in:
+--         Documents/Tilky Engine/Exports/<your project's name>/
+--     Run Standalone.exe in that folder to play it. Copy or zip the whole
+--     folder to share the game: the .exe needs everything next to it.
+--
+--  Good to know:
+--    - Each export replaces the previous one in that folder.
+--    - Scripts are compiled during the export; the exported game doesn't
+--      contain your .lua source files.
+--    - The exported game starts on the FIRST level file under Assets in
+--      alphabetical order (folders included), which in this project is
+--      "Showcase 01 - First Steps".
+--
+-- ============================================================================
+
